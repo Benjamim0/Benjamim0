@@ -9,10 +9,10 @@
 * **Em constante aprendizado:** Estrutura de dados e lógica de programação.
 
 ### 🐍 Meu "Snake Game" de Contribuições
-![Snake animation](https://github.com/SEU_USUARIO/SEU_USUARIO/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Benjamim0/Benjamim0/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
 #### 📊 Estatísticas do GitHub
-![Status do GitHub](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical)
+![Status do GitHub](https://github-readme-stats.vercel.app/api?username=Benjamim0&show_icons=true&theme=radical)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Benjamim0&layout=compact&theme=radical)
